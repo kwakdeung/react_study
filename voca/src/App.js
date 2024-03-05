@@ -6,6 +6,9 @@ import styles from "./App.module.css"
 function App() {
   return (
   <div className="App">
+    <h3>props : properties</h3>
+    <Hello />
+    <Hello />
     <Hello />
   </div>
   );
